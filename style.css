@@ -22,7 +22,6 @@ body {
   overflow-x: hidden;
 }
 
-/* ── Map container ── */
 .map-wrapper {
   display: flex;
   justify-content: center;
@@ -40,7 +39,6 @@ body {
   border-radius: 4px;
 }
 
-/* ── Sidebar panel ── */
 #sidebar {
   position: fixed;
   top: 0;
@@ -139,4 +137,5 @@ body {
     accent-color: var(--accent);
     width: 15px;
     height: 15px;
+
   }
